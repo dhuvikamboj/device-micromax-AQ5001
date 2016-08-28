@@ -1,15 +1,15 @@
-Micromax AQ5001
+Micromax Q380
 ==============
 
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | 1.3GHz Quad-Core MT6582
 GPU     | Mali-400MP
-Memory  | 2GB RAM
+Memory  | 1GB RAM
 Shipped Android Version | 5.0
 Storage | 8GB
 Battery | 3000 mAh
-Display | 5" 1280 x 720 px
+Display | 4.7" 540 x 960 px
 Camera  | 8MPx, LED Flash
 
 This branch is for building CyanogenMod 12.1 (or Android Lollipop 5.1 AOSP based roms) ROMS.
